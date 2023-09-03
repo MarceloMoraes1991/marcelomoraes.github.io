@@ -1,3 +1,6 @@
 ﻿# marcelomoraes.github.io
 
- Minha aplicação usando HTML5 - CSS3 - JavaScript
+Meu projeto desenvolvido com as linguagens de programação em HTML, CSS e JavaScript, este é o meu curriculo online.
+
+
+https://marcelomoraes1991.github.io/marcelomoraes.github.io/#home
